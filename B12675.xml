@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The zeale and great affection, which we haue found in all sorts of people of this our kingdome towards our person, and that right which we had to the succession of this crowne, hath so many wayes bene expressed, ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12675</idno><idno type="EEBO-CITATION">99892732</idno>
+  <idno type="VID">187104</idno>
+  <idno type="EEBO-PROQUEST">2248563880</idno>
+  
+            <idno type="STC">STC 8309</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[8]</idno>
+            <idno type="PROQUEST">ocm99892732</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892732e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12675)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187104)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The zeale and great affection, which we haue found in all sorts of people of this our kingdome towards our person, and that right which we had to the succession of this crowne, hath so many wayes bene expressed, ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>anno 1603.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from opening lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  James I, 1603-1625 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:187104:1"/>
+            <head>❧ By the King.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Zeale and great affection, which we haue found in all sorts of people</hi> of this our Kingdome towards our Person, and that Right which we had to the succession of this Crowne, hath so many wayes bene expressed, as we cannot chuse but make it mani<g ref="char:EOLhyphen"/>fest to them all by some publique declaration, how great a desire it hath wrought in our heart to shew our gracious acceptation of their deuotion towards vs, whensoeuer there shall be offered either occasion or subiect, that may concerne their vniuersall good. For though it be true, that our Right was so assured, that whatsoeuer testimonie could thereof be vttered, was but the duetie of Subiects, acknowledging that faith and loyalty where<g ref="char:EOLhyphen"/>unto by the Lawes of God and Nature they were bound: yet do we confesse, that there is in the true rules of Iustice from the Soueraigne to the Subiect, a reciprocall office and respect, which they are bound in honour and conscience to obserue. The consideration whereof, hath moued vs to thinke of such wayes, as for the present did occurre vnto vs, wherein wee might make manifest to our people, how willing we are now, &amp; will be ready hereafter, to be as forward in requiting their loue, as they haue bin in expressing it. In which consideration while we were busied, we were informed that the Queene our Sister deceased, finding some few yeeres before her death, that some things had passed her hand at the importunitie of her seruants, whō she was willing to reward with litle burden to her estate (otherwise by necessary occasions exhausted,) which though they had and might haue foundation in Princely prerogatiue, yet either by too large extending thereof, or for the most part in respect that they were of such nature, as could hardly be put in vse without hinderance to multitudes of people, or else committed to inferiour persons, who in the execution therof did so exceedingly abuse the same, as they be<g ref="char:EOLhyphen"/>came intollerable: Had purposed to reuoke all Grants of that nature, and did beginne with some, which were held most vniust, putting the rest to the examination of her Lawes to stand or fal, as in the construction of Law they might consist, or not. We, who though we had neuer had such an example, were euer opposite in our owne nature to any thing that had colour of oppression, holde it our part not onely carefully to perfect all her good intentions, but to study further by all good meanes, &amp; with all expedition to put in practise all other courses whereby a people so louing, so dutifull, and so deare vnto vs, may know and feele that we are as desirous to make them happy by our Iustice and grace towards them in all reasonable things, as they haue bene ready to increase our comfort and contentment in yeelding their loyalty and obe<g ref="char:EOLhyphen"/>dience towards our establishment in those Rights, which vnder God wee doe enioy. Therefore we doe expresly charge and command all persons whatsoeuer, That from hencefoorth they vtterly desist and forbeare to vse or execute any ma<g ref="char:EOLhyphen"/>ner of Charter or Graunt made by our late Sister the Queene deceased, of any kind of Monopolies, or of any power or Licence to dispence with, or discharge any maner of penall Lawes (except such Grants onely, as haue bene made to any Corporation or Company of any Art or Mysterie, or for the maintenance or enlargement of any trade of merchandize) vn<g ref="char:EOLhyphen"/>till such time as the same Charter or Grant shall be examined &amp; allowed of by vs, with the aduise of our Counsell, to bee fit to be put in execution, without any preiudice to our louing Subiects. And where heretofore many haue bene greatly preiudiced and delayed in suing for their debts and other dueties by sundry kind of Protections, &amp; by pretence of other Pri<g ref="char:EOLhyphen"/>uiledges and exemptions: We charge and command, and our expresse wil and pleasure is, That no Protection, Priuiledge or exemption to delay any persons Suite or Action, shall from hencefoorth be receiued or allowed in any our Courts or els where, which are or shall be contrary or repugnant to the Lawes of this Realme.</p>
+            <p>And furthermore, we will and command, that no assignements of Debts or Actions be made vnto vs by any that is, or pretendeth to bee indebted vnto vs, who is otherwise able and sufficient by himselfe, or by his Sureties, readily to pay the same Debt, nor any assignement taken to our vse of any Debt, other thē such, as shal then appeare to be a iust &amp; true Debt. And for that wee are certainely informed of many great disorders and abuses, to the great griefe of our louing Subiects
+<pb facs="tcp:187104:2"/> as well by Salt-petermen and such as haue or pretend to haue Commission and Authoritie to make Salt-peter, as also by sundrie Purueyors and Takers of Carts and other prouisions for our vse and seruice: Therefore wee doe expresly charge and command, that the said Salt-petermen, Purueyors &amp; Takers, haue especiall care to execute their Offices and Autho<g ref="char:EOLhyphen"/>rities without any maner of oppression, grieuance or wrong to be done to any our louing Subiects. And if they that haue the Commissions, shall abuse the execution of them contrarie to this our declaration, We are pleased that such, as shall be grieued therewith, shall resort to vs or our Councell with their complaints. And we doe also giue expresse charge and commandement to all Lawyers, Atturneyes, Officers and Clarkes, of and in any our Courts of Iustice whatsoeuer, Ecclesiasticall or Temporall, that they nor any of them extort or take any vndue or excessiue Fees, but such onely as are al<g ref="char:EOLhyphen"/>lowed to be had or taken in the same Courts. And to the ende that our pleasure and commaundement may bee duely and effectually performed, and obserued in the premisses: Wee doe hereby notifie and declare, that whosoeuer shall pre<g ref="char:EOLhyphen"/>sume to breake or violate in any thing aforesayd our Royall commaundements, they shall thereby incurre our indignati<g ref="char:EOLhyphen"/>on and displeasure, And that vpon complaint and proofe thereof made, we will not faile to proceede to such seuere punish<g ref="char:EOLhyphen"/>ment against such offenders according to their demerits, as shall bee fit for so high and contemptuous an offence. These graces aboue specified, as we doe presently extend to our people, and doe intend others hereafter when we shall vnderstand more particularly wherein wee may yeelde them comfort: So because things wel-meant may in the maner of the exe<g ref="char:EOLhyphen"/>cution of them be abused; and Complaints grounded vpon iust causes, may in the crauing of remedy be accompanied with offensiue proceedings, We haue thought good to admonish our Subiects, that wee doe expect at their hands, that if in the things aboue specified, or in any other wherwith they shal find themselues grieued (which haue not yet come to our know<g ref="char:EOLhyphen"/>ledge) they shall haue cause to seeke any thing at our hands, they shall forbeare all assembling and flocking together in multitudes, but shall in lawfull and decent maner without numbers, without clamor, or any other kind of disorder, resort to vs or our Councell by way of humble Petition; from whom they shall receiue such answere, as shall make manifest the zeale we haue to the obseruation of Iustice, and maintenance of their welfare, if their Complaints be iust. And on the o<g ref="char:EOLhyphen"/>ther side, if we shal perceiue that their petitions shal sauour of humor, and tend only to slaunder and calumniation, and in<g ref="char:EOLhyphen"/>deed haue no other foundation but such as often happeneth in bulgar people, vnder pretence of seeking publike redresses to vtter priuate malice: We would haue them vnderstand hereby, that they shall not onely displease vs therin, but finde that we hold it no lesse the Office of a Prince to Protect their Magistrates and Officers, and all publique persons in their iust causes, then to giue redresse to the vulgar sort, when they haue indeede cause to complaine, against all persons how great soeuer they be in rule or dignitie vnder vs: Reseruing to our selfe the Right iustly appertaining to our Prerogatiue, for that we would not haue it conceiued, that in doing these things out of our Grace, we doe intend to renounce those an<g ref="char:EOLhyphen"/>cient dueties and Priuiledges, which haue descended vpon vs with the succession of our Kingdomes. And for that we are informed, that there hath bene heretofore great neglect in this Kingdome of keeping the Sabbath day: For bet<g ref="char:EOLhyphen"/>ter obseruing of the same, and auoyding of all impious prophanation of it, wee do straightly charge and commaund, that no Beare-bayting, Bul-bayting, Enterludes, common Playes, or other like disordered or vnlawful Exercises or Pastimes be frequented, kept or vsed, at any time here after vpon any Sabbath day.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at our Court at Theobalds</hi>
+                  <date>
+                     <hi>the 7. day of May, in the first yeere of our Reigne.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Maiestie. Anno 1603.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
